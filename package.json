@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.5.2",
+    "body-parser": "^1.20.2",
+    "connect": "^3.7.0",
+    "express": "^4.19.2",
+    "npm": "^10.5.1",
+    "serve-static": "^1.15.0",
+    "snowflake-sdk": "^1.10.1"
+  }
+}
